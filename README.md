@@ -41,7 +41,6 @@ I drive **AI Infrastructure publications on Medium**, sharing practical work on 
 
 - **FlowFight** — high-performance, low-memory top-k spreader detection for security monitoring and anomaly detection. Published in *Computer Networks*.
 - **TupleMerge** — fast online packet classification for software-defined networking. Published in *IEEE/ACM Transactions on Networking*.
-- Contributor and inventor across networking, cloud infrastructure and security technologies.
 
 ## Background
 
