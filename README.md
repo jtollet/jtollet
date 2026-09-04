@@ -13,7 +13,6 @@ I drive **AI infrastructure** work focused on GPU-centric systems, KV-cache data
 - **AI infrastructure** — high-throughput, low-latency data paths for GPU- and accelerator-driven workloads
 - **FD.io / VPP** — vector packet processing, HostStack and software dataplanes
 - **Cloud networking & security** — SASE, service chaining, traffic visibility and scalable architectures
-- **Performance engineering** — low latency, high throughput, CPU efficiency and data-plane optimization
 - **Storage and data movement** — SPDK, NVMe/TCP and userspace I/O paths
 - **Hardware acceleration** — DPUs, SmartNICs and offloaded packet processing for AI platforms
 
