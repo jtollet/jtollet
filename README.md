@@ -33,7 +33,7 @@ I drive **AI infrastructure** work focused on GPU-centric systems, KV-cache data
 
 ### Writing
 
-I drive the [FD.io/VPP publication on Medium](https://medium.com/fd-io-vpp), sharing practical work on AI infrastructure, accelerated networking, GPUs, DPUs, KV-cache data movement and high-performance storage paths.
+I drive **AI Infrastructure publications on Medium**, sharing practical work on GPU systems, KV-cache data movement, accelerated networking, DPUs and high-performance storage paths, including through the [FD.io/VPP publication](https://medium.com/fd-io-vpp).
 
 - [SPDK Inside VPP: Accelerating NVMe/TCP on BlueField](https://medium.com/fd-io-vpp/spdk-inside-vpp-accelerating-nvme-tcp-on-bluefield-3-bc0419048b1e) — integrating SPDK with the VPP HostStack to improve high-performance storage data paths.
 - [Three VPP datapaths for NVIDIA ConnectX and BlueField](https://medium.com/fd-io-vpp/three-vpp-datapaths-for-nvidia-connectx-and-bluefield-309c0124019d) — comparing native RDMA-DV, DPDK mlx5 and AF_XDP for efficient packet processing.
