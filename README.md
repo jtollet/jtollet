@@ -1,0 +1,44 @@
+# Jérôme Tollet
+
+**Distinguished Engineer at Cisco · AI infrastructure · High-performance networking**
+
+[LinkedIn](https://www.linkedin.com/in/jerome-tollet-62a9752/) · [GitHub](https://github.com/jtollet)
+
+I design and build the high-performance infrastructure that supports modern AI and cloud platforms. My work combines systems software, accelerated networking, storage I/O and security — from packet-processing dataplanes to the data paths that feed distributed workloads.
+
+## Focus areas
+
+- **AI infrastructure** — high-throughput, low-latency data paths for GPU- and accelerator-driven workloads
+- **FD.io / VPP** — vector packet processing, HostStack and software dataplanes
+- **Cloud networking & security** — SASE, service chaining, traffic visibility and scalable architectures
+- **Performance engineering** — low latency, high throughput, CPU efficiency and data-plane optimization
+- **Storage and data movement** — SPDK, NVMe/TCP and userspace I/O paths
+- **Hardware acceleration** — DPUs, SmartNICs and offloaded packet processing for AI platforms
+
+## Current explorations
+
+- Building faster **AI infrastructure data paths** across networking, storage and accelerators
+- Integrating **VPP HostStack/VCL with SPDK NVMe/TCP** for high-performance storage networking
+- Exploring stateful dataplanes and hardware offload on **BlueField and other DPUs**
+
+## Selected work
+
+- [VPP/SPDK benchmark results](https://github.com/jtollet/vpp-spdk-benchmark-results) — anonymized data and reproducible analysis for a 100 GbE NVMe/TCP comparison on NVIDIA BlueField, with a focus on throughput and CPU efficiency for data-intensive infrastructure.
+- [FD.io / VPP](https://github.com/FDio/vpp) — open-source, high-performance vector packet-processing platform.
+- [Calico/VPP](https://medium.com/fd-io-vpp/getting-to-40g-encrypted-container-networking-with-calico-vpp-on-commodity-hardware-d7144e52659a) — accelerating encrypted Kubernetes networking with a userspace VPP dataplane.
+
+## Research & publications
+
+- **FlowFight** — high-performance, low-memory top-k spreader detection for security monitoring and anomaly detection. Published in *Computer Networks*.
+- **TupleMerge** — fast online packet classification for software-defined networking. Published in *IEEE/ACM Transactions on Networking*.
+- Contributor and inventor across networking, cloud infrastructure and security technologies.
+
+## Background
+
+- Distinguished Engineer at **Cisco**, focused on cloud security and SASE
+- Founder and former CTO of **Qosmos**, specializing in deep packet inspection and network intelligence
+- Long-term contributor and technical leader in the **FD.io / VPP** ecosystem, with a focus on infrastructure for demanding cloud and AI workloads
+
+## Get in touch
+
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/jerome-tollet-62a9752/). I’m particularly interested in discussions around AI infrastructure, accelerated networking, data movement, open-source dataplanes and cloud security.
