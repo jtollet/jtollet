@@ -6,6 +6,8 @@
 
 I design and build the high-performance infrastructure that supports modern AI and cloud platforms. My work combines systems software, accelerated networking, storage I/O and security — from packet-processing dataplanes to the data paths that feed distributed workloads.
 
+I drive **AI infrastructure** work focused on GPU-centric systems, KV-cache data movement and the networking and storage paths required to scale distributed inference efficiently.
+
 ## Focus areas
 
 - **AI infrastructure** — high-throughput, low-latency data paths for GPU- and accelerator-driven workloads
@@ -28,6 +30,14 @@ I design and build the high-performance infrastructure that supports modern AI a
 - [Calico/VPP](https://medium.com/fd-io-vpp/getting-to-40g-encrypted-container-networking-with-calico-vpp-on-commodity-hardware-d7144e52659a) — accelerating encrypted Kubernetes networking with a userspace VPP dataplane.
 
 ## Research & publications
+
+### Writing
+
+I also help drive the [FD.io/VPP publication on Medium](https://medium.com/fd-io-vpp), sharing practical work on AI infrastructure, accelerated networking, GPUs, DPUs, KV-cache data movement and high-performance storage paths.
+
+- [SPDK Inside VPP: Accelerating NVMe/TCP on BlueField](https://medium.com/fd-io-vpp/spdk-inside-vpp-accelerating-nvme-tcp-on-bluefield-3-bc0419048b1e) — integrating SPDK with the VPP HostStack to improve high-performance storage data paths.
+- [Three VPP datapaths for NVIDIA ConnectX and BlueField](https://medium.com/fd-io-vpp/three-vpp-datapaths-for-nvidia-connectx-and-bluefield-309c0124019d) — comparing native RDMA-DV, DPDK mlx5 and AF_XDP for efficient packet processing.
+- [Getting to 40G encrypted container networking with Calico/VPP](https://medium.com/fd-io-vpp/getting-to-40g-encrypted-container-networking-with-calico-vpp-on-commodity-hardware-d7144e52659a) — high-throughput encrypted networking for Kubernetes workloads.
 
 - **FlowFight** — high-performance, low-memory top-k spreader detection for security monitoring and anomaly detection. Published in *Computer Networks*.
 - **TupleMerge** — fast online packet classification for software-defined networking. Published in *IEEE/ACM Transactions on Networking*.
